@@ -1,0 +1,14 @@
+{
+    "markets": [
+        {
+            "marketId" : { "S" : "018E21FA-04F3-4E3E-99EB-91FF1B80ECC8"},
+            "isbn" : { "S" : "9789862012734" }
+        },
+        {
+            "marketId" : { "S" : "1403308F-D5EA-4FAE-9787-11F11B58F8C6"},
+            "isbn" : { "S" : "9789862012734"}
+        }
+        ],
+    "supplicant": { "S" : "ap-northeast-1:3f41dc33-d231-4f86-b952-4dd9af20ecec"},
+    "donor": { "S" : "b94f86ca-bb1f-421e-b057-77cdabb4ca61"}
+}

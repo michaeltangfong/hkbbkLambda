@@ -1,0 +1,23 @@
+/hkbbkCreateThumbnail/hkbbkCreateThumbnail.zip
+/hkbbkRegisterDevice/hkbbkRegisterDevice.zip
+/hkbbkMyRequests/hkbbkMyRequests.zip
+/hkbbkMyDemands/hkbbkMyDemands.zip
+/hkbbkUpdateCredit/hkbbkUpdateCredit.zip
+/hkbbkRequestBooks/hkbbkRequestBooks.zip
+/hkbbkUpdateCredit/hkbbkUpdateCredit.zip
+/hkbbkCountRequests/hkbbkCountRequests.zip
+/hkbbkGiveBooks/hkbbkGiveBooks.zip
+/hkbbkCountDemands/hkbbkCountDemands.zip
+/hkbbkRejectRequests/hkbbkRejectRequests.zip
+/hkbbkCancelRequests/hkbbkCancelRequests.zip
+/hkbbkReceiveBooks/hkbbkReceiveBooks.zip
+/hkbbkDeleteMarket/hkbbkDeleteMarket.zip
+/hkbbkOnShelf/hkbbkOnShelf.zip
+/hkbbkDonorMarketByUserDemand/hkbbkDonorMarketByUserDemand.zip
+/hkbbkRejectDemands/hkbbkRejectDemands.zip
+/hkbbkScheduledCloseRequest/hkbbkScheduledCloseRequest.zip
+/hkbbkUnreadNoticeCount/hkbbkUnreadNoticeCount.zip
+
+# Dependency directories
+node_modules
+jspm_packages

@@ -1,0 +1,5 @@
+{
+    "donor" : { "S" : "5ac08223-bd57-4142-9f6c-e1bec3159e56"},
+    "supplicant" : { "S" : "b94f86ca-bb1f-421e-b057-77cdabb4ca61"},
+    "lastEvaluatedKey" : {"marketId":{"S":"3FB7D064-80E3-4F98-BB27-F2A6ABEC3BF2"},"createdAt":{"S":"2016-04-20 07:55:34"},"marketStatus":{"S":"NEW"},"isbn":{"S":"9781849159364"}}
+}

@@ -1,0 +1,20 @@
+{
+    "demands": [
+        {
+            "marketId" : { "S" : "973367F4-7BE4-42DE-8414-D3F61B2533EE"},
+            "isbn": { "S": "9781783410248"}
+        },
+        {
+            "marketId" : { "S" : "AE3C1AE9-42E4-4C5B-B33C-F9445760D220"},
+            "isbn": { "S": "4715443024907"}
+        },
+        {
+            "marketId" : { "S" : "8B4299A7-C5DF-43D6-AA03-7FA82A45CB7D"},
+            "isbn": { "S": "9781849159364"}
+        }
+        ],
+    "supplicant": { "S" : "b94f86ca-bb1f-421e-b057-77cdabb4ca61"}, 
+    "donor": { "S" : "3f41dc33-d231-4f86-b952-4dd9af20ecec"},
+    "supplicantFullname": { "S" : "Anthony Leung"},
+    "donorFullname": { "S" : "Michael Tang Fong"}
+}
